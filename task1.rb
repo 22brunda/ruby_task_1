@@ -1,3 +1,3 @@
 a="Qwinix "
-b='Technologies
+b='Technologies'
 puts a+b
